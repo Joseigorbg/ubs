@@ -5,4 +5,4 @@ BAIXE O MYSQL (PODE ENTRAR PELO PHPMYADMIN, HeideSQL, MYSQL WorkBench e etc)
 Instale as migrações do banco de dados
 insira os insert into, e limpe a tabela de usuários caso precise refazer processos:
 
-depois de fazer a instalação desses processos, rode o codigo, qualquer duvida chama zap
+depois de fazer a instalação desses processos, rode o codigo, qualquer duvida chama no zap
